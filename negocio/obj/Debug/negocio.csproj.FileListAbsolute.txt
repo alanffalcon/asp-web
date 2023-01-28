@@ -1,0 +1,9 @@
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\bin\Debug\negocio.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\bin\Debug\negocio.pdb
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\bin\Debug\dominio.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\bin\Debug\dominio.pdb
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\obj\Debug\negocio.dll
+C:\Users\Alan\Documents\PROGRAMACION\MaxiPrograma\Curso C# Nivel 2 - Repaso\Pokemon completo\ejemplos-ado-net-main\negocio\obj\Debug\negocio.pdb
