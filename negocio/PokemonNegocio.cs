@@ -9,6 +9,7 @@ using System.Net;
 
 namespace negocio
 {
+    // NO - Listar distinto
     public class PokemonNegocio
     {
         // Al ponerle un string vacio el parametro es opcional

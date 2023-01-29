@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace dominio
 {
+    // LISTO
     public class Elemento
     {
         public int Id { get; set; }

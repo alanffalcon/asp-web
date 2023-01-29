@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 
 namespace negocio
 {
+    // NO - solo falto acceso datos distinto
     public class AccesoDatos
     {
         private SqlConnection conexion;
@@ -74,6 +75,20 @@ namespace negocio
             if (lector != null)
                 lector.Close();
             conexion.Close();
+        }
+
+        public int ejecutarAccionScalar()
+        {
+            comando.Connection = conexion;
+            try
+            {
+                conexion.Open();
+                return int.Parse(comando.ExecuteScalar().ToString());
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
     }
